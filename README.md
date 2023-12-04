@@ -1,9 +1,17 @@
 # SQL_Employees_Analysis_Project_2
 
-Description:
+### Description:
+EMPLOYEES ANALYSIS PROJECT WITH SQL (MICROSOFT SQL SERVER)
+SQL (Structured Query Language) is a powerful and standardized programming language used to manage and interact with relational databases. As a data analyst, SQL is an essential tool that enables you to access, query, and manipulate data efficiently.
+
+With SQL, you can retrieve specific information from databases using SELECT statements, filter data with the WHERE clause, and sort results with ORDER BY. It allows you to perform data aggregation using functions like SUM, AVG, COUNT, and more, to analyze large datasets and derive meaningful insights.
+
+As a data analyst, having a strong grasp of SQL empowers you to explore, clean, and transform data efficiently, leading to informed decision-making and valuable insights that drive business success.
+
+In this project I will walk you through steps I took in bring out insight from the employees datasets.
 The project describes how to analysis employees data for good performance and provide better services.
 
-Questions:
+### Questions:
 
 Q1.Update Sale_Price column of property_price_train_new with an increase of 15%  when the Sale_condition is Normal.
 
