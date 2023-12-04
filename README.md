@@ -4,6 +4,7 @@ Description:
 The project describes how to analysis employees data for good performance and provide better services.
 
 Questions:
+
 Q1.Update Sale_Price column of property_price_train_new with an increase of 15%  when the Sale_condition is Normal.
 
 Q2.Increase the length of BsmtUnfSF column size by 30 characters from property_price_train_new.
